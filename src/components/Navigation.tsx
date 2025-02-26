@@ -21,7 +21,7 @@ const Navigation = () => {
         <div className="flex justify-between h-16">
           <div className="flex-shrink-0 flex items-center">
             <span><img src="http://amfpk.com/images/test/1010.png" width="60px" height="60px" alt="abcd" /></span>
-            <span className="text-xl font-bold text-danger">  RAN Transport & Logistics</span>
+            <span className="text-xl font-bold text-danger">  AH Couriers & Removals</span>
           </div>
 
           {/* Desktop Navigation */}

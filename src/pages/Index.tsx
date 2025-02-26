@@ -16,7 +16,7 @@ const Index = () => {
                 <span className="text-danger" style={{color:"#303bd1"}}>When You Need It</span>
               </h1>
               <p className="text-lg text-gray-600">
-             <b>RAN Transport & Logistics</b>  is your trusted partner in logistics and delivery services. We ensure your packages arrive safely and on time.
+             <b>AH Couriers & Removals</b>  is your trusted partner in logistics and delivery services. We ensure your packages arrive safely and on time.
               </p>
               <div className="flex flex-col sm:flex-row justify-center lg:justify-start gap-4">
                 <a
@@ -299,7 +299,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="text-xl font-bold mb-4">RAN Transport & Logistics</h3>
+              <h3 className="text-xl font-bold mb-4">AH Couriers & Removals</h3>
               <p className="text-gray-400">
                 Your trusted partner in logistics and delivery services.
               </p>
@@ -340,7 +340,7 @@ const Index = () => {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-800 text-center text-gray-400">
-            <p>&copy; 2025 RAN Transport & Logistics Ltd. All rights reserved.</p>
+            <p>&copy; 2025 AH Couriers & Removals. All rights reserved.</p>
           </div>
         </div>
       </footer>
